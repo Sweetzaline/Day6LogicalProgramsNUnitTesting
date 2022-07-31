@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day6\PrimeNo\PrimeNo\obj\Debug\netcoreapp3.1\PrimeNo.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day6\PrimeNo\PrimeNo\obj\Debug\netcoreapp3.1\PrimeNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day6\PrimeNo\PrimeNo\obj\Debug\netcoreapp3.1\PrimeNo.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\PrimeNo\PrimeNo\obj\Debug\netcoreapp3.1\PrimeNo.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day6\PrimeNo\PrimeNo\obj\Debug\netcoreapp3.1\PrimeNo.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\PrimeNo\PrimeNo\bin\Debug\netcoreapp3.1\PrimeNo.exe
+C:\Users\Amit Pegu\Desktop\Day6\PrimeNo\PrimeNo\bin\Debug\netcoreapp3.1\PrimeNo.deps.json
+C:\Users\Amit Pegu\Desktop\Day6\PrimeNo\PrimeNo\bin\Debug\netcoreapp3.1\PrimeNo.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day6\PrimeNo\PrimeNo\bin\Debug\netcoreapp3.1\PrimeNo.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day6\PrimeNo\PrimeNo\bin\Debug\netcoreapp3.1\PrimeNo.dll
+C:\Users\Amit Pegu\Desktop\Day6\PrimeNo\PrimeNo\obj\Debug\netcoreapp3.1\PrimeNo.dll
+C:\Users\Amit Pegu\Desktop\Day6\PrimeNo\PrimeNo\obj\Debug\netcoreapp3.1\PrimeNo.pdb
+C:\Users\Amit Pegu\Desktop\Day6\PrimeNo\PrimeNo\obj\Debug\netcoreapp3.1\PrimeNo.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day6\PrimeNo\PrimeNo\bin\Debug\netcoreapp3.1\PrimeNo.pdb
