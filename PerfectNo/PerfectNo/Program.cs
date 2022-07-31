@@ -1,9 +1,7 @@
 ﻿using System;
-
-
-namespace UC2_PerfectNumber
+namespace PerfectNo
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
