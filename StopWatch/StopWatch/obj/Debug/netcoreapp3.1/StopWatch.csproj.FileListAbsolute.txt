@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day6\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.exe
+C:\Users\Amit Pegu\Desktop\Day6\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.deps.json
+C:\Users\Amit Pegu\Desktop\Day6\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day6\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day6\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.dll
+C:\Users\Amit Pegu\Desktop\Day6\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day6\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day6\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day6\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.dll
+C:\Users\Amit Pegu\Desktop\Day6\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.pdb
+C:\Users\Amit Pegu\Desktop\Day6\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day6\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.pdb
