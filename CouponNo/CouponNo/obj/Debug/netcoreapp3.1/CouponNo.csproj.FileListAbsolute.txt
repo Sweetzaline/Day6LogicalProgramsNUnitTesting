@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day6\CouponNo\CouponNo\bin\Debug\netcoreapp3.1\CouponNo.exe
+C:\Users\Amit Pegu\Desktop\Day6\CouponNo\CouponNo\bin\Debug\netcoreapp3.1\CouponNo.deps.json
+C:\Users\Amit Pegu\Desktop\Day6\CouponNo\CouponNo\bin\Debug\netcoreapp3.1\CouponNo.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day6\CouponNo\CouponNo\bin\Debug\netcoreapp3.1\CouponNo.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day6\CouponNo\CouponNo\bin\Debug\netcoreapp3.1\CouponNo.dll
+C:\Users\Amit Pegu\Desktop\Day6\CouponNo\CouponNo\obj\Debug\netcoreapp3.1\CouponNo.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day6\CouponNo\CouponNo\obj\Debug\netcoreapp3.1\CouponNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day6\CouponNo\CouponNo\obj\Debug\netcoreapp3.1\CouponNo.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\CouponNo\CouponNo\obj\Debug\netcoreapp3.1\CouponNo.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day6\CouponNo\CouponNo\obj\Debug\netcoreapp3.1\CouponNo.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\CouponNo\CouponNo\obj\Debug\netcoreapp3.1\CouponNo.dll
+C:\Users\Amit Pegu\Desktop\Day6\CouponNo\CouponNo\obj\Debug\netcoreapp3.1\CouponNo.pdb
+C:\Users\Amit Pegu\Desktop\Day6\CouponNo\CouponNo\obj\Debug\netcoreapp3.1\CouponNo.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day6\CouponNo\CouponNo\bin\Debug\netcoreapp3.1\CouponNo.pdb
