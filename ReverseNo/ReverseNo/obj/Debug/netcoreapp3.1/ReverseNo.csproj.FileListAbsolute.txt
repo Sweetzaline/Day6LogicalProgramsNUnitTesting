@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day6\ReverseNo\ReverseNo\bin\Debug\netcoreapp3.1\ReverseNo.exe
+C:\Users\Amit Pegu\Desktop\Day6\ReverseNo\ReverseNo\bin\Debug\netcoreapp3.1\ReverseNo.deps.json
+C:\Users\Amit Pegu\Desktop\Day6\ReverseNo\ReverseNo\bin\Debug\netcoreapp3.1\ReverseNo.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day6\ReverseNo\ReverseNo\bin\Debug\netcoreapp3.1\ReverseNo.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day6\ReverseNo\ReverseNo\bin\Debug\netcoreapp3.1\ReverseNo.dll
+C:\Users\Amit Pegu\Desktop\Day6\ReverseNo\ReverseNo\obj\Debug\netcoreapp3.1\ReverseNo.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day6\ReverseNo\ReverseNo\obj\Debug\netcoreapp3.1\ReverseNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day6\ReverseNo\ReverseNo\obj\Debug\netcoreapp3.1\ReverseNo.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\ReverseNo\ReverseNo\obj\Debug\netcoreapp3.1\ReverseNo.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day6\ReverseNo\ReverseNo\obj\Debug\netcoreapp3.1\ReverseNo.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\ReverseNo\ReverseNo\obj\Debug\netcoreapp3.1\ReverseNo.dll
+C:\Users\Amit Pegu\Desktop\Day6\ReverseNo\ReverseNo\obj\Debug\netcoreapp3.1\ReverseNo.pdb
+C:\Users\Amit Pegu\Desktop\Day6\ReverseNo\ReverseNo\obj\Debug\netcoreapp3.1\ReverseNo.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day6\ReverseNo\ReverseNo\bin\Debug\netcoreapp3.1\ReverseNo.pdb
