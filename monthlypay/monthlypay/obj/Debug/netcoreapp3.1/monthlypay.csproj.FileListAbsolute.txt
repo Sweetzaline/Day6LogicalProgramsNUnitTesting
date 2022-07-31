@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day6\monthlypay\monthlypay\bin\Debug\netcoreapp3.1\monthlypay.exe
+C:\Users\Amit Pegu\Desktop\Day6\monthlypay\monthlypay\bin\Debug\netcoreapp3.1\monthlypay.deps.json
+C:\Users\Amit Pegu\Desktop\Day6\monthlypay\monthlypay\bin\Debug\netcoreapp3.1\monthlypay.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day6\monthlypay\monthlypay\bin\Debug\netcoreapp3.1\monthlypay.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day6\monthlypay\monthlypay\bin\Debug\netcoreapp3.1\monthlypay.dll
+C:\Users\Amit Pegu\Desktop\Day6\monthlypay\monthlypay\obj\Debug\netcoreapp3.1\monthlypay.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day6\monthlypay\monthlypay\obj\Debug\netcoreapp3.1\monthlypay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day6\monthlypay\monthlypay\obj\Debug\netcoreapp3.1\monthlypay.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\monthlypay\monthlypay\obj\Debug\netcoreapp3.1\monthlypay.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day6\monthlypay\monthlypay\obj\Debug\netcoreapp3.1\monthlypay.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\monthlypay\monthlypay\obj\Debug\netcoreapp3.1\monthlypay.dll
+C:\Users\Amit Pegu\Desktop\Day6\monthlypay\monthlypay\obj\Debug\netcoreapp3.1\monthlypay.pdb
+C:\Users\Amit Pegu\Desktop\Day6\monthlypay\monthlypay\obj\Debug\netcoreapp3.1\monthlypay.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day6\monthlypay\monthlypay\bin\Debug\netcoreapp3.1\monthlypay.pdb
