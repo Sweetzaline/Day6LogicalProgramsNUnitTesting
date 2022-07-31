@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day6\tempConv\tempConv\obj\Debug\netcoreapp3.1\tempConv.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day6\tempConv\tempConv\obj\Debug\netcoreapp3.1\tempConv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day6\tempConv\tempConv\obj\Debug\netcoreapp3.1\tempConv.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\tempConv\tempConv\obj\Debug\netcoreapp3.1\tempConv.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day6\tempConv\tempConv\obj\Debug\netcoreapp3.1\tempConv.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\tempConv\tempConv\bin\Debug\netcoreapp3.1\tempConv.exe
+C:\Users\Amit Pegu\Desktop\Day6\tempConv\tempConv\bin\Debug\netcoreapp3.1\tempConv.deps.json
+C:\Users\Amit Pegu\Desktop\Day6\tempConv\tempConv\bin\Debug\netcoreapp3.1\tempConv.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day6\tempConv\tempConv\bin\Debug\netcoreapp3.1\tempConv.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day6\tempConv\tempConv\bin\Debug\netcoreapp3.1\tempConv.dll
+C:\Users\Amit Pegu\Desktop\Day6\tempConv\tempConv\obj\Debug\netcoreapp3.1\tempConv.dll
+C:\Users\Amit Pegu\Desktop\Day6\tempConv\tempConv\obj\Debug\netcoreapp3.1\tempConv.pdb
+C:\Users\Amit Pegu\Desktop\Day6\tempConv\tempConv\obj\Debug\netcoreapp3.1\tempConv.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day6\tempConv\tempConv\bin\Debug\netcoreapp3.1\tempConv.pdb
