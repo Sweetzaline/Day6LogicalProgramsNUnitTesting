@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day6\DayofWeek\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day6\DayofWeek\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day6\DayofWeek\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\DayofWeek\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day6\DayofWeek\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\DayofWeek\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.exe
+C:\Users\Amit Pegu\Desktop\Day6\DayofWeek\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.deps.json
+C:\Users\Amit Pegu\Desktop\Day6\DayofWeek\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day6\DayofWeek\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day6\DayofWeek\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.dll
+C:\Users\Amit Pegu\Desktop\Day6\DayofWeek\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.dll
+C:\Users\Amit Pegu\Desktop\Day6\DayofWeek\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.pdb
+C:\Users\Amit Pegu\Desktop\Day6\DayofWeek\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day6\DayofWeek\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.pdb
