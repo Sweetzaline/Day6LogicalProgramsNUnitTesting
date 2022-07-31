@@ -7,13 +7,9 @@ namespace VendingMachine
         int[] arr = new int[9];
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the number: ");
-            int y = Convert.ToInt32(Console.ReadLine());
-            VendingMachine.Getchange(y);
-        }
-
-        public void Getchange(int amount)
-        {
+            Console.WriteLine("Enter the amount: ");
+            int amount = Convert.ToInt32(Console.ReadLine());
+            
             for (int i = 0; i < arr.Length; i++)
             {
                 if (amount >= notes[i])
