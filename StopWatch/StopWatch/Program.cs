@@ -10,7 +10,7 @@ namespace StopWatch
             Stopwatch stopwatch = new Stopwatch();
             stopwatch.Start();
 
-            // ... This takes 10 seconds to finish.
+            
             for (int i = 0; i < 1000; i++)
             {
                 System.Threading.Thread.Sleep(10);
