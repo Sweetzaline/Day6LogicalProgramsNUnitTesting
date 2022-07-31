@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day6\sqrt\sqrt\bin\Debug\netcoreapp3.1\sqrt.exe
+C:\Users\Amit Pegu\Desktop\Day6\sqrt\sqrt\bin\Debug\netcoreapp3.1\sqrt.deps.json
+C:\Users\Amit Pegu\Desktop\Day6\sqrt\sqrt\bin\Debug\netcoreapp3.1\sqrt.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day6\sqrt\sqrt\bin\Debug\netcoreapp3.1\sqrt.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day6\sqrt\sqrt\bin\Debug\netcoreapp3.1\sqrt.dll
+C:\Users\Amit Pegu\Desktop\Day6\sqrt\sqrt\obj\Debug\netcoreapp3.1\sqrt.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day6\sqrt\sqrt\obj\Debug\netcoreapp3.1\sqrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day6\sqrt\sqrt\obj\Debug\netcoreapp3.1\sqrt.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\sqrt\sqrt\obj\Debug\netcoreapp3.1\sqrt.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day6\sqrt\sqrt\obj\Debug\netcoreapp3.1\sqrt.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\sqrt\sqrt\obj\Debug\netcoreapp3.1\sqrt.dll
+C:\Users\Amit Pegu\Desktop\Day6\sqrt\sqrt\obj\Debug\netcoreapp3.1\sqrt.pdb
+C:\Users\Amit Pegu\Desktop\Day6\sqrt\sqrt\obj\Debug\netcoreapp3.1\sqrt.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day6\sqrt\sqrt\bin\Debug\netcoreapp3.1\sqrt.pdb
