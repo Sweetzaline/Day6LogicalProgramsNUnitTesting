@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day6\tobinary\tobinary\bin\Debug\netcoreapp3.1\tobinary.exe
+C:\Users\Amit Pegu\Desktop\Day6\tobinary\tobinary\bin\Debug\netcoreapp3.1\tobinary.deps.json
+C:\Users\Amit Pegu\Desktop\Day6\tobinary\tobinary\bin\Debug\netcoreapp3.1\tobinary.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day6\tobinary\tobinary\bin\Debug\netcoreapp3.1\tobinary.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day6\tobinary\tobinary\bin\Debug\netcoreapp3.1\tobinary.dll
+C:\Users\Amit Pegu\Desktop\Day6\tobinary\tobinary\obj\Debug\netcoreapp3.1\tobinary.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day6\tobinary\tobinary\obj\Debug\netcoreapp3.1\tobinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day6\tobinary\tobinary\obj\Debug\netcoreapp3.1\tobinary.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\tobinary\tobinary\obj\Debug\netcoreapp3.1\tobinary.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day6\tobinary\tobinary\obj\Debug\netcoreapp3.1\tobinary.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\tobinary\tobinary\obj\Debug\netcoreapp3.1\tobinary.dll
+C:\Users\Amit Pegu\Desktop\Day6\tobinary\tobinary\obj\Debug\netcoreapp3.1\tobinary.pdb
+C:\Users\Amit Pegu\Desktop\Day6\tobinary\tobinary\obj\Debug\netcoreapp3.1\tobinary.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day6\tobinary\tobinary\bin\Debug\netcoreapp3.1\tobinary.pdb
