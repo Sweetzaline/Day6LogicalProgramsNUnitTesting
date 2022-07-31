@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day6\PerfectNo\PerfectNo\bin\Debug\netcoreapp3.1\PerfectNo.exe
+C:\Users\Amit Pegu\Desktop\Day6\PerfectNo\PerfectNo\bin\Debug\netcoreapp3.1\PerfectNo.deps.json
+C:\Users\Amit Pegu\Desktop\Day6\PerfectNo\PerfectNo\bin\Debug\netcoreapp3.1\PerfectNo.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day6\PerfectNo\PerfectNo\bin\Debug\netcoreapp3.1\PerfectNo.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day6\PerfectNo\PerfectNo\bin\Debug\netcoreapp3.1\PerfectNo.dll
+C:\Users\Amit Pegu\Desktop\Day6\PerfectNo\PerfectNo\obj\Debug\netcoreapp3.1\PerfectNo.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day6\PerfectNo\PerfectNo\obj\Debug\netcoreapp3.1\PerfectNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day6\PerfectNo\PerfectNo\obj\Debug\netcoreapp3.1\PerfectNo.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\PerfectNo\PerfectNo\obj\Debug\netcoreapp3.1\PerfectNo.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day6\PerfectNo\PerfectNo\obj\Debug\netcoreapp3.1\PerfectNo.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day6\PerfectNo\PerfectNo\obj\Debug\netcoreapp3.1\PerfectNo.dll
+C:\Users\Amit Pegu\Desktop\Day6\PerfectNo\PerfectNo\obj\Debug\netcoreapp3.1\PerfectNo.pdb
+C:\Users\Amit Pegu\Desktop\Day6\PerfectNo\PerfectNo\obj\Debug\netcoreapp3.1\PerfectNo.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day6\PerfectNo\PerfectNo\bin\Debug\netcoreapp3.1\PerfectNo.pdb
